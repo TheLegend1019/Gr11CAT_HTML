@@ -1,4 +1,4 @@
-Got you — sorry about that mess. Here’s a **clean, copy-paste-ready `README.md`** with proper GitHub Markdown. Drop this straight into your repo.
+
 
 ````markdown
 # Grade 11 CAT (CAPS/NSC) — HTML From Start to Finish
